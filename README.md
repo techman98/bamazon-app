@@ -6,3 +6,4 @@ The program is a dummy version of amazon. The customer is given a list of produc
 
 ### Example of working program
 ![screenshot_52](https://user-images.githubusercontent.com/44615072/53760695-41639e00-3e89-11e9-8c31-5681b70d878a.png)
+![screenshot_53](https://user-images.githubusercontent.com/44615072/53760777-7ec82b80-3e89-11e9-8e7f-14c5a0c3e1ae.png)
